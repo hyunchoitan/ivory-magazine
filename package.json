@@ -1,0 +1,25 @@
+{
+  "name": "ivory-magazine",
+  "version": "1.0.0",
+  "description": "Static website for fashion/beauty magazine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyunchoitan/ivory-magazine.git"
+  },
+  "author": "Hyun Choi <bloarin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyunchoitan/ivory-magazine/issues"
+  },
+  "homepage": "https://github.com/hyunchoitan/ivory-magazine#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/preset-env": "^7.12.16",
+    "@babel/register": "^7.12.13",
+    "gulp": "^4.0.2"
+  }
+}
